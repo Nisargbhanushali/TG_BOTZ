@@ -1689,7 +1689,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "sticker":
             buttons = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="help"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/KUSHALHK")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/foeadmin")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
