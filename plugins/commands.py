@@ -172,8 +172,8 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/+swRx0afnnC4zOWVl'),
+                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url="https://t.me/FULL_OF_ENTERTAINMENT")
                        ],[
                           InlineKeyboardButton("MY Owner", url="t.me/foeadminbot")
                          ]
